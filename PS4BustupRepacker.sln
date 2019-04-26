@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS4BustupRepacker", "PS4BustupRepacker\PS4BustupRepacker.csproj", "{FAB63A74-B066-43D6-99E5-81B35FC7AA8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAB63A74-B066-43D6-99E5-81B35FC7AA8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB63A74-B066-43D6-99E5-81B35FC7AA8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB63A74-B066-43D6-99E5-81B35FC7AA8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB63A74-B066-43D6-99E5-81B35FC7AA8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80CE02A9-ACD0-48C0-8311-4A89A5D674AD}
+	EndGlobalSection
+EndGlobal
